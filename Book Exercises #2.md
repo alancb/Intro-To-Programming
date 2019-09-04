@@ -84,7 +84,8 @@ phrase and making a word from them. For example, RAM is an acronym
 for "random access memory." Write a program that allows the user to
 type in a phrase and then outputs the acronym for that phrase. Note : The
 acronym should be all uppercase, even if the words in the phrase are not
-capitalized.
+capitalized. (Reference pages 148-149 in the textbook to get an idea for how to do this)
+
 2. Numerologists claim to be able to determine a person's character traits
 based on the "numeric value" of a name. The value of a name is determined
 by summing up the values of the letters of the name where "a" is
