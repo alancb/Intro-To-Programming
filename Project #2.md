@@ -18,6 +18,8 @@ After finding how many assignments the student has done you need to find out how
 
 Using our example student he would be at 90% progress. Your task now is to write a program in python that takes in user information and prints out the result.
 
+There are Six Units, with Five assignments each.
+
 # Rubric #
 
 This project is worth 20 points. You will be awarded points based on completion and accuracy of your program. 
