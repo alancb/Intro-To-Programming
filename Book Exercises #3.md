@@ -85,6 +85,6 @@ of the top edge of the house frame. (see page 128 of book for an image of the ho
 
 # Rubric #
 
-Each question is worth 3.75 points, giving a total of 15 
+Each question is worth 3.75 points, giving a total of 15 points.
 
 
