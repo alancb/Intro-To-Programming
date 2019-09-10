@@ -65,6 +65,6 @@ a number. Modifies each entry in the list by converting it to a number.
 
 # Rubric #
 
-Each question is worth 3.75 points, giving a total of 15 
+Each question is worth 3.75 points, giving a total of 15 points.
 
 
